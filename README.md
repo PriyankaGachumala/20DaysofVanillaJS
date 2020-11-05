@@ -13,4 +13,5 @@ Emment- Emment is inbuilt in VS code but we have to add some settings to setting
 
 
 Day 1: I have created and validated a form with User defined functions. A small introductory project to get started.
+
 Day 2: Created an Online Movie Seat Booking application. Mainly worked on how to manipulate DOM. Used local storage to save movie name and selected seats by the user, so that on page reload the data will be retained. 
