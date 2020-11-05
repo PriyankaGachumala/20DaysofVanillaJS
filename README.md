@@ -12,6 +12,6 @@ JavaScript ES6 code snippets,
 Emment- Emment is inbuilt in VS code but we have to add some settings to settings.json file.
 
 
-Day 1: I have created and validated a form with User defined functions. A small introductory project to get started. [Check out Form Validation](https://validations-form.netlify.app)
+Day 1: I have created and validated a form with User defined functions. A small introductory project to get started.[https://validations-form.netlify.app](https://validations-form.netlify.app)
 
-Day 2: Created an Online Movie Seat Booking application. Mainly worked on how to manipulate DOM. Used local storage to save movie name and selected seats by the user, so that on page reload the data will be retained. [Check out Movie ticket booking app](https://movieticketbooking-app.netlify.app)
+Day 2: Created an Online Movie Seat Booking application. Mainly worked on how to manipulate DOM. Used local storage to save movie name and selected seats by the user, so that on page reload the data will be retained. [https://movieticketbooking-app.netlify.app](https://movieticketbooking-app.netlify.app)
